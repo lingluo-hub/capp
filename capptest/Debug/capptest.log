@@ -1,0 +1,9 @@
+﻿  stdafx.cpp
+d:\visual studio 2017\projects\capptest\capptest\stdafx.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\visual studio 2017\projects\capptest\capptest\stdafx.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\visual studio 2017\projects\capptest\capptest\targetver.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  capptest.cpp
+d:\visual studio 2017\projects\capptest\capptest\capptest.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\visual studio 2017\projects\capptest\capptest\resource.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  capptest.vcxproj -> D:\visual studio 2017\Projects\capptest\Debug\capptest.exe
+  capptest.vcxproj -> D:\visual studio 2017\Projects\capptest\Debug\capptest.pdb (Partial PDB)
